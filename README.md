@@ -2,4 +2,4 @@
 
 ## UML Class Diagram
 
-![Class Diagram](classdiagram.png)
+![Class Diagram](class-diagram.png)
