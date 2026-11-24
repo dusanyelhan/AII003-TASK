@@ -1,1 +1,5 @@
-Student-class-diagram-and-Java-implementation-for-AII003.
+# Student Management System
+
+## UML Class Diagram
+
+![Class Diagram](class-diagram.png)
